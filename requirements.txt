@@ -1,4 +1,5 @@
-numpy
-pandas
-streamlit
-streamlit-autorefresh
+numpy==1.24.2
+pandas==1.5.3
+streamlit==1.11.1
+streamlit-aggrid==0.3.3
+streamlit-autorefresh==0.0.1
